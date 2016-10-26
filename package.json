@@ -1,0 +1,31 @@
+{
+    "author": "m.wiewiegand@gmail.com",
+    "dependencies": {
+        "pebble-clay": "^1.0.0"
+    },
+    "keywords": [],
+    "name": "test3",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "test3",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "0e2a7ab6-dd71-40ab-a07c-3d69784d848d",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
